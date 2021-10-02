@@ -8,8 +8,13 @@ import Foundation
 import Effect
  
 public class MusicRepository1 : IMusicRepository
-{ 
+{
     public static let shared = MusicRepository1()
+    
+    public static func register()
+    {
+        shared.register()
+    }
     
     public var playList: [String] = ["Monkeys","Happy","Dark","Kool", "Hitman", "Sneaky", "Amok"]
     
