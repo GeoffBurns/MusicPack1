@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Effect",
+        "repositoryURL": "https://github.com/GeoffBurns/Effect",
+        "state": {
+          "branch": null,
+          "revision": "daa0938c8b9f301c465f83e516ae7fbc8f19b0ad",
+          "version": "0.2.7"
+        }
+      },
+      {
+        "package": "Utilities",
+        "repositoryURL": "https://github.com/GeoffBurns/Utilities",
+        "state": {
+          "branch": null,
+          "revision": "51031c60eef6b38800e6e7b0954cbc951ced718e",
+          "version": "0.1.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
